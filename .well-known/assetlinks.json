@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["12:CE:B0:3E:9D:7E:55:AA:87:20:DA:5A:D3:3C:FB:1F:C1:12:90:03:E6:46:D3:FB:48:5C:54:94:C8:95:1B:43"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ggk.tictactoe",
+    "sha256_cert_fingerprints":
+    ["AC:05:41:A6:04:D8:DD:A3:18:7C:80:DC:5B:51:D6:E5:CB:93:43:9C:5F:F9:76:2E:C6:07:36:DD:50:E7:75:50"]
+  }
 }]
